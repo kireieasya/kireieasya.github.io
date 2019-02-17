@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Biodata KIREI</title>
+	<style>
+		body{
+			margin: 100px;
+			width: 960px;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>BIODATA</h1>
+	<h2>Nama Lengkap - Tempat Tanggal Lahir</h2>
+	<div><strong>Kirei Easya Muthmainnah - Bogor, 19 Juni 2002</strong></div>
+	<p>Hai people! let me introduce my self.</p>
+	<br>
+	<a href="http://instagram.com/kirei.ca">di klik ya linkny :)</a>
+	<div class="image">
+		<img src="kireii.jpg" width="600px" height="400px">
+	</div>
+	<br>
+	<hr>
+
+
+</body>
+</html>
